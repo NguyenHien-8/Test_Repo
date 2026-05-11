@@ -48,4 +48,4 @@ jobs:
           file: "interop/Dockerfile"
           platforms: linux/amd64,linux/arm64
           push: ${{ github.event_name == 'push' }}
-          tags: ${{ secrets.DOCKER_USERNAME }}/tcq-interop:${{ steps.tag.outputs.tag }}
+          tags: ${{ secrets.DOCKER_USERNAME }}/test-repo:${{ steps.tag.outputs.tag }}
