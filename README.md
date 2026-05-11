@@ -27,8 +27,8 @@ The TCQ protocol always aims to update to the latest versions.
 
 ## Contributing
 
-We are always happy to welcome new contributors! We have a number of self-contained issues that are suitable for first-time contributors, they are tagged with [help wanted](https://github.com/NguyenHien-8/TCQ-Network-Protocol/issues). If you have any questions, please feel free to reach out by opening an issue or leaving a comment.
+We are always happy to welcome new contributors. If you have any questions, please feel free to reach out by opening an issue or leaving a comment [issues](https://github.com/NguyenHien-8/TCQ-Network-Protocol/issues).
 
 ## License
 
-The code is licensed under the MIT license. The logo and brand assets are excluded from the MIT license. See [assets/LICENSE.md](https://github.com/NguyenHien-8/TCQ-Network-Protocol/blob/Document/LICENSE) for the full usage policy and details.
+The code is licensed under the Apache License 2.0. The logo and brand assets are excluded from the Apache License 2.0. See [assets/LICENSE.md](https://github.com/NguyenHien-8/TCQ-Network-Protocol/blob/Document/LICENSE) for the full usage policy and details.
