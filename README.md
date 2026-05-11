@@ -7,7 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/NguyenHien-8/TCQ-Network-Protocol)
 [![GitHub](https://img.shields.io/github/license/NguyenHien-8/TCQ-Network-Protocol)](https://github.com/NguyenHien-8/TCQ-Network-Protocol/blob/master/LICENSE)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/NguyenHien-8/TCQ-Network-Protocol)](https://pkg.go.dev/github.com/NguyenHien-8/TCQ-Network-Protocol)
-[![Code Coverage](https://codecov.io/gh/NguyenHien-8/TCQ-Network-Protocol/graph/badge.svg?token=FUAMRG52A1)](https://codecov.io/gh/NguyenHien-8/TCQ-Network-Protocol)
+[![Code Coverage](https://codecov.io/gh/NguyenHien-8/Test_Repo/graph/badge.svg?token=EOAAYMCF77)](https://codecov.io/gh/NguyenHien-8/Test_Repo)
 
 TCQ is an implementation of the QUIC protocol but adds several features that allow for bandwidth optimization, processing flow optimization, CPU optimization, and data compression. ([RFC 9000](https://datatracker.ietf.org/doc/html/rfc9000), [RFC 9001](https://datatracker.ietf.org/doc/html/rfc9001), [RFC 9002](https://datatracker.ietf.org/doc/html/rfc9002)) in Go. It has support for HTTP/3 ([RFC 9114](https://datatracker.ietf.org/doc/html/rfc9114)), including QPACK ([RFC 9204](https://datatracker.ietf.org/doc/html/rfc9204)) and HTTP Datagrams ([RFC 9297](https://datatracker.ietf.org/doc/html/rfc9297)).
 

@@ -3,7 +3,7 @@
 //	Major: Electronic And Communication Engineering
 //	Email: trannguyenhien29085@gmail.com
 //	Date: 2/3/2026
-//	MIT Licence
+//	Apache License 2.0
 //
 // ----------------------------------------------------------------
 // Package testutils contains utilities for simulating packet injection and man-in-the-middle (MITM) attacker tests.

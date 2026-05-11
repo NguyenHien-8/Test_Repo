@@ -3,7 +3,7 @@
 //	Major: Electronic And Communication Engineering
 //	Email: trannguyenhien29085@gmail.com
 //	Date: 2/3/2026
-//	MIT Licence
+//	Apache License 2.0
 //
 // ----------------------------------------------------------------
 package simnet
