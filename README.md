@@ -25,6 +25,8 @@ Support for WebTransport over HTTP/3 ([draft-ietf-webtrans-http3](https://datatr
 
 The TCQ protocol always aims to update to the latest versions.
 
+## 1. Tạo một thư mục mới tại <path> và gắn nó với <tên-nhánh>
+
 ## Contributing
 
 We are always happy to welcome new contributors. If you have any questions, please feel free to reach out by opening an issue or leaving a comment [issues](https://github.com/NguyenHien-8/TCQ-Network-Protocol/issues).
